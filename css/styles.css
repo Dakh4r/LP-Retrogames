@@ -41,6 +41,7 @@ header{
 nav{
 /*     padding: 30px 10px 20px 20px; */
     display: flex;
+    position: fixed;
     align-items: center;
     text-align: center;
     box-shadow: 0 0 10px 0 black;
